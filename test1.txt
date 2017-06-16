@@ -23,4 +23,8 @@ test11111111111111.txt
 test1 end
 
 
-Merge branch test 
+Merge branch test
+
+
+
+test merge code option by git
