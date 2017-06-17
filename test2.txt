@@ -1,3 +1,5 @@
+stash apply mutipule
+
 test2
 
 modify by local 747 second
